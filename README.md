@@ -18,8 +18,8 @@ The Menu Management System is a backend application built with Node.js and Mongo
 ### Setup
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Divya5003/menu-management.git
+   cd menu-management
    ```
 2. **Install Dependencies**:
    ```bash
